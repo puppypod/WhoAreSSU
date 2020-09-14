@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988711309238",
+    "firebase_url": "https://whoaressuproject.firebaseio.com",
+    "project_id": "whoaressuproject",
+    "storage_bucket": "whoaressuproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988711309238:android:60434bfcc9092264c67b17",
+        "android_client_info": {
+          "package_name": "com.changsdev.whoaressuproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988711309238-j8l4u3t9lprqo06tf0v5iq0cpupk1ql1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUqzoY9L_7LDgRvgfp9EBYm7MnqcdCZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988711309238-j8l4u3t9lprqo06tf0v5iq0cpupk1ql1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

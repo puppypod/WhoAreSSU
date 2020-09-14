@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.OrgListFragment"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:text="조직 목록"
+            android:textSize="30dp"
+            android:paddingLeft="20dp"
+            android:background="@android:color/white"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="#ffffff"
+            android:id="@+id/serchWard"
+            android:gravity="end|center_vertical"
+            android:textSize="25dp"
+            />
+
+
+        <ImageView
+            android:id="@+id/serchOrgList"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.2"
+            android:src="@drawable/ic_search_black_24dp"
+            android:background="@android:color/white"
+            android:paddingEnd="20dp"
+            />
+
+    </LinearLayout>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_weight="8"
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+
+</LinearLayout>
