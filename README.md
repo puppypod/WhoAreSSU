@@ -54,4 +54,4 @@
 
 ## 최종 시연 영상
 
-[!WhoAreSSU 데모 영상](http://img.youtube.com/vi/NTpPVHArRwM/0.jpg)](https://youtu.be/NTpPVHArRwM?t=0s)
+[![WhoAreSSU 데모 영상](http://img.youtube.com/vi/NTpPVHArRwM/0.jpg)](https://youtu.be/NTpPVHArRwM?t=0s)
