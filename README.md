@@ -51,3 +51,7 @@
 ![12](https://user-images.githubusercontent.com/47939832/112271803-ba2b3200-8cbe-11eb-832a-3d46d23e99de.png)
 
 ![13](https://user-images.githubusercontent.com/47939832/112271805-ba2b3200-8cbe-11eb-8392-52794d46720d.png)
+
+## 최종 시연 영상
+
+[!WhoAreSSU 데모 영상](http://img.youtube.com/vi/NTpPVHArRwM/0.jpg)](https://youtu.be/NTpPVHArRwM?t=0s)
